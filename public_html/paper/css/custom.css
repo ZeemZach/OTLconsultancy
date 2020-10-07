@@ -1,0 +1,22 @@
+.logo-normal img{
+    width: 120px;
+}
+.table-responsive{
+    overflow: hidden;
+}
+.caret{
+    margin-top: 8px;
+}
+input[type="file"]::-webkit-file-upload-button {
+    cursor: pointer;
+    border: 0px;
+    background: #fff;
+    color: #afb3b2;
+    
+}
+.notes{
+    color:#676262!important;
+    font-weight: 500;
+}
+
+
